@@ -2,5 +2,5 @@
 import string
 
 letters = string.ascii_letters
-letters = letters[:26]
-print("{}".format(letters), end="")
+for i in range(26):
+    print("{}".format(letters[i]), end="")
