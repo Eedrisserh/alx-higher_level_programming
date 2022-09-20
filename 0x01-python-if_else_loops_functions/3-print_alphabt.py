@@ -3,5 +3,5 @@ import string
 
 letters = string.ascii_letters
 for i in range(26):
-    if i != 'q' or i != 'e':
+    if letters[i] != "q" and letters [i] != "e":
         print("{}".format(letters[i]), end="")
