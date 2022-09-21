@@ -2,4 +2,5 @@
 def uppercase(str):
     for i in str:
         c = ord(i)
-        print("{:c}".format(c - 32))
+        print("{:c}".format(c - 32), end="")
+    print("")
