@@ -2,7 +2,7 @@
 #include <Python.h>
 
 /**
- * print_python_bytes - Prints bytes information
+ * print_python_bytes - Prints python bytes information
  *
  * @p: Python Object
  * Return: no return
