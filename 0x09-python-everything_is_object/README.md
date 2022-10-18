@@ -1,10 +1,8 @@
 # Python - Everything is object
+A project that test your knowledge of python without using a computer
+No code is required in this project.
 
-In this project, I studied object instantiation in Python, delving into
-variable aliasing and object identifiers, types, and mutability. The project
-involved a series of quiz-like questions the answers to which I provided in
-single-line `.txt` files.
-
+Below are the questions for the answers in the text files.
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): Folder of test files. Provided by Holberton School.
