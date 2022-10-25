@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Module 1-my_list.
-Creates a class inheriting from the list class.
+Creates a class inheriting from the my_list class.
 """
 
 
